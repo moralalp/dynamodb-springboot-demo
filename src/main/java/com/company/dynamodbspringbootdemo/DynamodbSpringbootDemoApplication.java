@@ -9,5 +9,5 @@ public class DynamodbSpringbootDemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(DynamodbSpringbootDemoApplication.class, args);
     }
-    //Mehmetcan Oralalp
+    //Mehmetcan Oralalp Demo
 }
